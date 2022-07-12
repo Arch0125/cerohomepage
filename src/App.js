@@ -6,7 +6,7 @@ function App() {
     <div className='flex flex-row h-screen w-screen bg-gradient-to-br from-gray-900 to-purple-900 ' >
       <div className='flex flex-col h-screen w-[50%] justify-center' >
         <label className='font-thin text-white text-8xl ml-10 ' >Welcome to <br/> CERO <label className='font-medium' > Protocol </label></label>
-        <p className='font-thin text-white ml-10 text-4xl mt-3' >The only DEX and Lending Platform that is truly free from Fiat</p>
+        <p className='font-thin text-white ml-10 text-4xl mt-3' >The only UnderCollateral Lending Platform that is truly free from Fiat</p>
         <a href='https://cero.vercel.app' target='_blank' ><button className='bg-white text-purple-900 w-fit h-fit px-4 py-2 rounded-xl ml-10 mt-10 text-2xl ' >Launch App</button></a>
       </div>  
       <div className='flex flex-col h-screen w-[50%] justify-center items-center' >
